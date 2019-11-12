@@ -18,7 +18,7 @@ public class JavaGitHubExample {
         // TODO code application logic here
         
         
-        System.out.println("FIN APLICACIÓN");
+        System.out.println("buenas noches");
     }
     
 }
